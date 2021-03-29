@@ -13,7 +13,7 @@ sap.ui.define([
 			// call the init function of the parent
 			UIComponent.prototype.init.apply(this, arguments);
 
-			// additional initialization can be done here
+			// additional initialization  can be done here
 		}
 
 	});
